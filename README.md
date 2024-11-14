@@ -1,45 +1,17 @@
-# AyuGram for Android
+# HyuGram
 
 ![AyuGram Logo](.github/AyuGram.png)
 
-## What's this fork even about?
+## What the hell nah bro
 
-**Is it just exteraGram+Telegraher?**
+**HGram** is a fork of [AyuGram](https://github.com/ayugram/ayugram4a) with broken scripts. 
 
-**AyuGram4A** is a fork of [exteraGram](https://github.com/exteraSquad/exteraGram) with
-some patches from [Telegraher](https://github.com/nikitasius/Telegraher).
 
-But it's not just exteraGram with Telegraher's commits, **it's a fully reworked version**.
 
-The main difference between AyuGram and Telegraher is that AyuGram **saves** your messages history,
-while Telegraher just **caches** them.
-It means that you can clean your cache and still have all saved messages.
-
-Also, AyuGram has **full ghost mode**.
-It allows you to hide your online status from other users, even if you send them
-a message.
-
-*And, well, it's not an Iranian Telegram fork with floating TV or something.*
+*And, well, it's an Iranian Telegram fork with floating TV or something.*
 
 ## Features list
-
-### Telegraher's patches:
-
-- Built with official keys
-- Screenshots in secret chats
-- No emulator detection
-- No ads
-
-### Reworked Telegraher's patches:
-
-- Save chats where you were banned/kicked
-- Expire button for TTL photos/videos
-- ...something else probably
-
-### Our features:
-
-- Full ghost mode (flexible)
-- Messages history (flexible)
+todo: make this asshole readme
 - Message filters (e.g. hide ads)
 - Customizable edited/deleted marks
 - Local Telegram Premium
